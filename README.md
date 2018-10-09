@@ -1,7 +1,3 @@
 Meu primeiro sistema no git.
 
-Fazendo uma pequena alteração no readme.
-
-Mais uma alteração
-
-Quarta linha 
+Esta é a versão 1. Apenas um pequeno teste para testar o Git Hub.
